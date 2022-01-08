@@ -6,7 +6,7 @@ class RnMobileSetup < Formula
   license "MIT"
 
   def install
-    bin.install "dev_setup"
+    bin.install "mobile_setup"
   end
 
 end
