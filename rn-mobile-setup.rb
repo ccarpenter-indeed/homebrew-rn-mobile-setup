@@ -7,7 +7,7 @@ class RnMobileSetup < Formula
 
   def install
     bin.install "rn_mobile_setup"
-    system "echo Run 'source rn_mobile_setup -help' for help running. Visit this project's README for usage."
+    printf "\n\tRun source rn_mobile_setup -help for help running. Visit the project README for usage.\n\n"
   end
 
 end
