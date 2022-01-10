@@ -1,8 +1,8 @@
 class RnMobileSetup < Formula
   desc "Bootstrap the React Native mobile development environment."
   homepage "https://github.com/ccarpenter-indeed/rn-mobile-setup"
-  url "https://github.com/ccarpenter-indeed/rn-mobile-setup/archive/refs/tags/v0.0.7.tar.gz"
-  sha256 "54f86b56f62b5456b8e8b759beb36f1553129998f972a8d92f9710fb11726b57"
+  url "https://github.com/ccarpenter-indeed/rn-mobile-setup/archive/refs/tags/v0.0.8.tar.gz"
+  sha256 "2ba6b95259ec061e962d0782447c40f7ed4a5b2127b704a1d510f94602c9be81"
   license "MIT"
 
   def install
