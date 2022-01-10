@@ -7,7 +7,7 @@ class RnMobileSetup < Formula
 
   def install
     bin.install "rn_mobile_setup"
-    printf "\n\tRun source rn_mobile_setup -help for help running. Visit the project README for usage.\n\n"
+    printf "\n\tRun source rn_mobile_setup -help for help running. \n\tVisit the project README for usage (https://github.com/ccarpenter-indeed/rn-mobile-setup/blob/main/README.md) \n\n"
   end
 
 end
